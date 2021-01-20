@@ -1,3 +1,5 @@
+这是soga破解版的一个备份
+
 # crack-soga-v2ray
  A cracked version of soga v2ray backend
 
@@ -23,7 +25,7 @@
 ## 简单安装
 
 ``` bash
-sudo bash < <(curl -Ls https://raw.githubusercontent.com/RManLuo/crack-soga-v2ray/master/install.sh)
+sudo bash < <(curl -Ls https://raw.githubusercontent.com/okoklai/crack-soga-v2ray/master/install.sh)
 ```
 
 ## Docker安装
